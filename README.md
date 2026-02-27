@@ -3,7 +3,7 @@
 Prototipo de shoot ’em up que implementa un tema basado en la plantilla de velocidad perceptiva de GameSense Developer Tools, diseñado para analizar y mejorar la jugabilidad.
 
 
-[Este proyecto se deriva del repositorio original](https://github.com/godotrecipes/classic_shmup).
+[Este *fork* se deriva del repositorio original](https://github.com/godotrecipes/classic_shmup).
 
 [Para acceder a los recursos originales, podéis consultar la página](https://grafxkid.itch.io/mini-pixel-pack-3).
 
